@@ -5,18 +5,8 @@
 - 🤝 Open for: Research and project inquiries – Bonus points for coffee!
 - 📫 You Can Reach Me the Best via: milana.gurbanova@cdtm.de
 
-<p align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight" />
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
-</p>
-
 
 <p align="center">
-  <img width="49%" height="215px" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true&line_height=28" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true&line_height=29" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
 </p>
