@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true&line_height=30" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true&line_height=20" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
 </p>
