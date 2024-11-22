@@ -6,8 +6,8 @@
 - 📫 You Can Reach Me the Best via: milana.gurbanova@cdtm.de
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aishwarya1712&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya1712&theme=tokyonight&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
 </p>
 
 <!--
