@@ -1,17 +1,14 @@
 ## hello (world)
 
-### <span style="margin-bottom: 0;">🎓 Academia:</span>
-<span style="display: block; text-indent: 1em;">Because one degree was apparently not enough: double major in Psychology and Computer Science.</span>
-<span style="display: block; text-indent: 1em;">Balancing brains and bytes since day one.</span>
+- 🎓 Academia: Because one degree was apparently not enough: double major in Psychology and Computer Science.
+- 🔭 Learning: playing around with Reinforcement Learning and NLP
+- 🤝 Open for: Research and project inquiries – Bonus points for coffee!
+- 📫 You Can Reach Me the Best via: milana.gurbanova@cdtm.de
 
-### <span style="margin-bottom: 0;">🔭 Learning:</span>
-<span style="display: block; text-indent: 1em;">Reinforcement Learning and NLP</span>
-
-### <span style="margin-bottom: 0;">🤝 Open for:</span>
-<span style="display: block; text-indent: 1em;">Research and project inquiries – Bonus points for coffee!</span>
-
-### <span style="margin-bottom: 0;">📫 You Can Reach Me the Best via:</span>
-<span style="display: block; text-indent: 1em;">milana.gurbanova@cdtm.de</span>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aishwarya1712&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya1712&theme=tokyonight&theme=tokyonight" />
+</p>
 
 <!--
 **milanagm/milanagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
