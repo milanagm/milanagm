@@ -3,7 +3,13 @@
 ### 🎓 Academia:
 - Because one degree was apparently not enough: double major in Psychology and Computer Science. Balancing brains and bytes since day one.
 
-<span style="margin-bottom: 0;">🎓 Academia:</span>
+# <span style="margin-bottom: 0;">🎓 Academia:</span>
+<span style="display: block; text-indent: 1em;">Because one degree was apparently not enough: double major in Psychology and Computer Science. Balancing brains and bytes since day one.</span>
+
+## <span style="margin-bottom: 0;">🎓 Academia:</span>
+<span style="display: block; text-indent: 1em;">Because one degree was apparently not enough: double major in Psychology and Computer Science. Balancing brains and bytes since day one.</span>
+
+### <span style="margin-bottom: 0;">🎓 Academia:</span>
 <span style="display: block; text-indent: 1em;">Because one degree was apparently not enough: double major in Psychology and Computer Science. Balancing brains and bytes since day one.</span>
 
 
