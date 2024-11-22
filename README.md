@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight&hide_title=true" />
   <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
 </p>
 
