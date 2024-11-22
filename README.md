@@ -1,6 +1,7 @@
 ## hello (world)
 
-- 🎓 Academia: Because one degree was apparently not enough: double major in Psychology and Computer Science.
+- 🎓 Academia: Because one degree was apparently not enough: double major in Psychology and Computer Science
+     yup, balancing brains and bytes since day one
 - 🔭 Learning: playing around with Reinforcement Learning and NLP
 - 🤝 Open for: Research and project inquiries – Bonus points for coffee!
 - 📫 You Can Reach Me the Best via: milana.gurbanova@cdtm.de
