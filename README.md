@@ -10,6 +10,11 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=milanagm&show_icons=true&theme=tokyonight" />
+  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
+</p>
+
 <!--
 **milanagm/milanagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
