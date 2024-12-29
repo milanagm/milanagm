@@ -12,4 +12,3 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milanagm&theme=tokyonight&theme=tokyonight" />
 </p>
 
-✌️ balancing brains and bytes since day one
