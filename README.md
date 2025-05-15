@@ -3,7 +3,7 @@
 - 🎓 Academia: Because one degree was apparently not enough: double major in Psychology and Computer Science
 - 🔭 Learning: playing around with Reinforcement Learning and NLP
 - 🤝 Open for: Research and project inquiries – Bonus points for coffee!
-- 📫 You Can Reach Me the Best via: milana.gurbanova@cdtm.de
+- 📫 You Can Reach Me the Best via: milana.gurbanova@cdtm.com
 
 
 
